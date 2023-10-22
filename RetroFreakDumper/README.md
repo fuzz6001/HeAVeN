@@ -1,1 +1,1 @@
-* [Nintendo Family Computer](Nintendo%20Family%20Computer.md)
+* [Nintendo Family Computer](NintendoFamilyComputer.md)
