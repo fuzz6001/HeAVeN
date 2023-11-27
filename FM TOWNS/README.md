@@ -7,8 +7,8 @@
 ## その他
 * [アートディンク](Artdink.md)
 * [イマジニア](Imagineer.md)
-* カプコン
-* ビクター音楽産業 (ビクターエンタテインメント)
+* [カプコン](Capcom.md)
+* [ビクター音楽産業 (ビクターエンタテインメント)](VictorMusicalIndustries.md)
 * [ビング](Ving.md)
 * エレクトロニック・アーツ・ビクター
 * CSK総合研究所 (CRI)
