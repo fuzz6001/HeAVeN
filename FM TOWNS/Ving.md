@@ -1,6 +1,7 @@
 # ビング<br>Ving
 
 ## FM TOWNS
+
 ||Vol.|Title|Serial|Release|Price|Barcode|Note|
 |:-:|-:|:-|:-|:-|-:|:-|:-|
 |*|1|ニュージーランドストーリー<br>The Newzealand Story|HMA-213|1989/08|9,800|4988736000012|修正版:HMA-213A|
@@ -20,6 +21,7 @@
 ||15|プラネッツエッジ<br>Planet's Edge|HME-172|1993/09|12,800|4988736000159||
 
 ## FM TOWNS MaRTy / FM TOWNS
+
 ||Vol.|Title|Serial|Release|Price|Barcode|Note|
 |:-:|-:|:-|:-|:-|-:|:-|:-|
 |*|1|スーパーリアル麻雀 PII&PIII+<br>Super Real Mahjong PII & PIII +(Plus)|HME-111|1993/03|11,800|4988736010011||
