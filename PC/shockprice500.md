@@ -67,23 +67,3 @@
 |||SRRW 53|ミニドライブ2000<br>Mini Drive 2000|
 |||SRRW 69|缶蹴り KICK KICK KICK<br>Kick Kick Kick||SMEJ|VRA-27 1|
 |||SSRW 30032|バレーボール<br>Volleyball||SMEJ|VRA-6-1 1|
-
-# Happy Net 1000 Game Series
-||Serial|Title|Barcode|Publisher|
-|:-:|:-|:-|:-|:-|
-||SRRW 49|オセロ<br>Othello|4988009019994|SMEJ||
-|||パチンコ ゲームパーラー|
-|||占いババぬき|
-||SRRW 60|チャレンジゴルフ ネットトーナメント|4988009021096|
-|||ワールドアスリート I|
-|||ワールドアスリート II|
-|||TAKARAゲームらんど|
-|||サスペンスノベルゲーム 誰が彼女を殺したか|
-|||熱闘チュウチュウたたき|
-|||タイピングヒーロー|
-|||Escape! 迷走街脱出遊戯|
-|||ネット対戦 将棋|
-|||ネット対戦 大富豪|
-|||麻雀パズル 龍脈|
-|||Jong Plugged みんなで麻雀|
-
