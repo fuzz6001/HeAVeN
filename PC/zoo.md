@@ -25,7 +25,7 @@
 ||ZPG-0142||Tropico 3: Absolute Power|4 937858 771386|
 ||ZPG-0146|FBG017W111|ストロングホールド:ゴールドエディション<br>Stronghold: Gold Edition|4 937858 771423|2011-02-25|
 ||ZPG-0147||Sacred 2: Gold Edition|||
-||ZPG-0148||Stronghold 3|4 937858 771447|2011-12-16|2011-12-16|
+||ZPG-0148||Stronghold 3|4 937858 771447|2011-12-16|
 ||ZPG-0150||Emergency 2012|||
 ||ZPG-0150||Emergency 2012|||
 |*|ZPG-0161||デッドアイランド<br>Dead Island|4 937858 771577|2011-10-20|
@@ -40,7 +40,7 @@
 
 
 
-```
+<!--
   Serial                   Title                         Barcode          Release
 --------------------------------------------------------------------------------------------
                              Bermuda Syndrome                                                    http://www.zoo.co.jp/zoonew/product/mj_berm.html
@@ -76,4 +76,4 @@
                ZOOC-W0004E1  Cossacks: European Wars                                 2001-09-14  http://cossacks.zoo.co.jp/
                              Sudden Strike Forever                                   2001-10-05  http://suddenstrike.zoo.co.jp/forever.html
                              TechnoMage                                              2001-12-14  http://technomage.zoo.co.jp/
-```
+-->
