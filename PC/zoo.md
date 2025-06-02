@@ -8,6 +8,7 @@
 ||ZPG-0057||バトルステーションズ:ミッドウェイ<br>Battlestations: Midway|4 937858 770532|2008-05-23|[Web](http://battlestations.zoo.co.jp/)|
 ||ZPG-0058||ヒットマン:ブラッドマネー<br>Hitman: Blood Money|4 937858 770549|||
 |*|ZPG-0059||パシフィック ストーム アライズ<br>Pacific Storm: Allies|4 937858 770556|2007-07-27||
+|*|ZPG-0072|FZ194W111|エンパイアアースIII<br>Empire Earth III|4 937858 770686|2008-08-08|[Web](http://empireearth.zoo.co.jp/)|
 |*|ZPG-0073|FZ197W111|バイオショック<br>BioShock|4 937858 770693|2008-06-27||
 ||ZPG-0078||Lara Croft Tomb Raider: Anniversary|4 937858 770747|||
 ||ZPG-0079||Anno 1503: Gold Pack|||
