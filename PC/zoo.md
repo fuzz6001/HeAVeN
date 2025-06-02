@@ -5,7 +5,7 @@
 ||ZPG-0026||Singles 2: Tripple Trouble|4560100331214 ?|2005-12-16|[Web](http://singles2.zoo.co.jp/)|
 ||ZPG-0027||Singles Deluxe|4560100331221 ?|2005-12-16|[Web](http://singles2.zoo.co.jp/)|
 ||ZPG-0056||プレイ<br>Prey|4 937858 770525|||
-||ZPG-0057||Battlestations: Midway|4 937858 770532|||
+||ZPG-0057||バトルステーションズ:ミッドウェイ<br>Battlestations: Midway|4 937858 770532|2008-05-23|[Web](http://battlestations.zoo.co.jp/)|
 ||ZPG-0058||ヒットマン:ブラッドマネー<br>Hitman: Blood Money|4 937858 770549|||
 |*|ZPG-0059||パシフィック ストーム アライズ<br>Pacific Storm: Allies|4 937858 770556|2007-07-27||
 |*|ZPG-0073|FZ197W111|バイオショック<br>BioShock|4 937858 770693|2008-06-27||
