@@ -39,6 +39,7 @@
 ||ZPG-0167<br>FBG047W111|Take on Helicopters|4 937858 771638|2012-03-30|[Web](http://takeonhelicopters.zoo.co.jp/)|
 ||ZPG-0168|エアラインタイクーン2<br>Airline Tycoon 2|4937858771645|2012-02-24|[Web](http://airlinetycoon.zoo.co.jp/)|
 ||ZPG-0170|アラン ウェイク<br>Alan Wake|4937858771669|2012-03-30|[Web](http://alanwake.zoo.co.jp/)|
+||ZPG-0171|シリアス サム 3 BFE<br>Serious Sam 3 BFE|4937858771676|2012-03-30|[Web](http://serioussam.zoo.co.jp/)|
 ||ZPG-0179|トロピコ4 ゴールドエディション<br>Tropico 4: Gold Edition|4 937858 771751|2012-11-30|[Web](http://tropico.zoo.co.jp/tropico04/introduction.php)|
 ||ZPG-0180|トロピコ4 モダンタイムス<br>Tropico 4: Modern Times|4937858771768 ?|2012-11-30|[Web](http://tropico.zoo.co.jp/tropico04/introduction02.php)|
 ||ZPG-0181|トロピコ3 ゴールドエディション<br>Tropico 3: Gold Edition|4937858771775 ?|2012-08-31|[Web](http://tropico.zoo.co.jp/tropico03/introduction.php)<br>価格改定版|
