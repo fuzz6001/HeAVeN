@@ -37,6 +37,7 @@
 ||ZPG-0164<br>FBG037W111|King Arthur Collection|4 937858 771607||
 ||FBG038W111|King Arthur|4528992074732 ?|2011-11-25|[Web](http://kingarthur.zoo.co.jp/)<br>Best Selection of Games|
 ||ZPG-0167<br>FBG047W111|Take on Helicopters|4 937858 771638|2012-03-30|[Web](http://takeonhelicopters.zoo.co.jp/)|
+||ZPG-0168|エアラインタイクーン2<br>Airline Tycoon 2|4937858771645|2012-02-24|[Web](http://airlinetycoon.zoo.co.jp/)|
 ||ZPG-0179|トロピコ4 ゴールドエディション<br>Tropico 4: Gold Edition|4 937858 771751|2012-11-30|[Web](http://tropico.zoo.co.jp/tropico04/introduction.php)|
 ||ZPG-0180|トロピコ4 モダンタイムス<br>Tropico 4: Modern Times|4937858771768 ?|2012-11-30|[Web](http://tropico.zoo.co.jp/tropico04/introduction02.php)|
 ||ZPG-0181|トロピコ3 ゴールドエディション<br>Tropico 3: Gold Edition|4937858771775 ?|2012-08-31|[Web](http://tropico.zoo.co.jp/tropico03/introduction.php)<br>価格改定版|
