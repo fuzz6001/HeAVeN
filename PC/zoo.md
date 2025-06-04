@@ -5,8 +5,8 @@
 ||ZPG-0026|Singles 2: Tripple Trouble|4560100331214 ?|2005-12-16|[Web](http://singles2.zoo.co.jp/)|
 ||ZPG-0027|Singles Deluxe|4560100331221 ?|2005-12-16|[Web](http://singles2.zoo.co.jp/)|
 ||ZPG-0056|プレイ<br>Prey|4 937858 770525|||
-||ZPG-0057|バトルステーションズ:ミッドウェイ<br>Battlestations: Midway|4 937858 770532|2008-05-23|[Web](http://battlestations.zoo.co.jp/)|
-||ZPG-0058|ヒットマン:ブラッドマネー<br>Hitman: Blood Money|4 937858 770549|||
+||ZPG-0057|バトルステーションズ ミッドウェイ<br>Battlestations: Midway|4 937858 770532|2008-05-23|[Web](http://battlestations.zoo.co.jp/)|
+||ZPG-0058|ヒットマン ブラッドマネー<br>Hitman: Blood Money|4 937858 770549|||
 |*|ZPG-0059|パシフィック ストーム アライズ<br>Pacific Storm: Allies|4 937858 770556|2007-07-27||
 |*|ZPG-0072<br>FZ194W111|エンパイアアースIII<br>Empire Earth III|4 937858 770686|2008-08-08|[Web](http://empireearth.zoo.co.jp/)|
 |*|ZPG-0073<br>FZ197W111|バイオショック<br>BioShock|4 937858 770693|2008-06-27||
@@ -27,7 +27,7 @@
 |*|ZPG-0138<br>FBG015W111|シティーズ XL 2011<br>Cities XL 2011|4 937858 771348|2010-12-24|
 ||ZPG-0142|トロピコ3 アブソルートパワー<br>Tropico 3: Absolute Power|4 937858 771386|2010-12-29|[Web](http://tropico.zoo.co.jp/tropico03/introduction02.php)|
 ||ZPG-0143|トロピコ3 ゴールドエディション<br>Tropico 3: Gold Edition|4937858771393 ?|2011-01-28|[Web](http://tropico.zoo.co.jp/tropico03/introduction.php)|
-||ZPG-0146<br>FBG017W111|ストロングホールド:ゴールドエディション<br>Stronghold: Gold Edition|4 937858 771423|2011-02-25|
+||ZPG-0146<br>FBG017W111|ストロングホールド ゴールドエディション<br>Stronghold: Gold Edition|4 937858 771423|2011-02-25|
 ||ZPG-0147|Sacred 2: Gold Edition|||
 ||ZPG-0148|Stronghold 3|4 937858 771447|2011-12-16|
 ||ZPG-0150|Emergency 2012|||
@@ -38,9 +38,10 @@
 ||FBG038W111|King Arthur|4528992074732 ?|2011-11-25|[Web](http://kingarthur.zoo.co.jp/)<br>Best Selection of Games|
 ||ZPG-0167<br>FBG047W111|Take on Helicopters|4 937858 771638|2012-03-30|[Web](http://takeonhelicopters.zoo.co.jp/)|
 ||ZPG-0168|エアラインタイクーン2<br>Airline Tycoon 2|4937858771645|2012-02-24|[Web](http://airlinetycoon.zoo.co.jp/)|
+||ZPG-0169|ゲーム・オブ・スローンズ ジェネシス<br>A Game of Thrones: Genesis|4937858771652|2012-02-24|[Web](http://agotg.zoo.co.jp/)|
 ||ZPG-0170|アラン ウェイク<br>Alan Wake|4937858771669|2012-03-30|[Web](http://alanwake.zoo.co.jp/)|
 ||ZPG-0171|シリアス サム 3 BFE<br>Serious Sam 3 BFE|4937858771676|2012-03-30|[Web](http://serioussam.zoo.co.jp/)|
-||ZPG-0173|レース:インジェクション<br>Race: Injection|4937858771690|2012-05-25|[Web](http://race-injection.zoo.co.jp/)<br>英語版|
+||ZPG-0173|レース インジェクション<br>Race: Injection|4937858771690|2012-05-25|[Web](http://race-injection.zoo.co.jp/)<br>英語版|
 ||ZPG-0179|トロピコ4 ゴールドエディション<br>Tropico 4: Gold Edition|4 937858 771751|2012-11-30|[Web](http://tropico.zoo.co.jp/tropico04/introduction.php)|
 ||ZPG-0180|トロピコ4 モダンタイムス<br>Tropico 4: Modern Times|4937858771768 ?|2012-11-30|[Web](http://tropico.zoo.co.jp/tropico04/introduction02.php)|
 ||ZPG-0181|トロピコ3 ゴールドエディション<br>Tropico 3: Gold Edition|4937858771775 ?|2012-08-31|[Web](http://tropico.zoo.co.jp/tropico03/introduction.php)<br>価格改定版|
