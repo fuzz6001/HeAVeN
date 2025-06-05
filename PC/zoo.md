@@ -5,40 +5,47 @@
 ||ZPG-0026|Singles 2: Tripple Trouble|4560100331214 ?|2005-12-16|[Web](http://singles2.zoo.co.jp/)|
 ||ZPG-0027|Singles Deluxe|4560100331221 ?|2005-12-16|[Web](http://singles2.zoo.co.jp/)|
 ||ZPG-0056|プレイ<br>Prey|4 937858 770525|||
-||ZPG-0057|バトルステーションズ ミッドウェイ<br>Battlestations: Midway|4 937858 770532|2008-05-23|[Web](http://battlestations.zoo.co.jp/)|
+||ZPG-0057|バトルステーションズ:ミッドウェイ<br>Battlestations: Midway|4 937858 770532|2008-05-23|[Web](http://battlestations.zoo.co.jp/)|
 ||ZPG-0058|ヒットマン ブラッドマネー<br>Hitman: Blood Money|4 937858 770549|||
 |*|ZPG-0059|パシフィック ストーム アライズ<br>Pacific Storm: Allies|4 937858 770556|2007-07-27||
 |*|ZPG-0072<br>FZ194W111|エンパイアアースIII<br>Empire Earth III|4 937858 770686|2008-08-08|[Web](http://empireearth.zoo.co.jp/)|
 |*|ZPG-0073<br>FZ197W111|バイオショック<br>BioShock|4 937858 770693|2008-06-27||
+||ZPG-0075|ウォーリーダーズ クラッシュオブネイションズ<br>War Leaders: Clash of Nations|4937858770716|2008-10-31|[Web]( http://warleaders.zoo.co.jp/)|
 ||ZPG-0078|Lara Croft Tomb Raider: Anniversary|4 937858 770747|||
 ||ZPG-0079|Anno 1503: Gold Pack|||
 ||ZPG-0090|Sins of a Solar Empire|4 937858 770860|
 ||ZPG-0092<br>FZ206W111|Double Clutch|4 937858 770884|
 ||ZPG-0106|Lara Croft Tomb Raider: Legend|4 937858 771027||Best Price!|
 ||ZPG-0108|Tomb Raider: Underworld|4 937858 771041|||
+||ZPG-0113|Anno 1404|4937858771096|2009-08-28|[Web](http://anno1404.zoo.co.jp/1404/introduction.php)|
 ||ZPG-0115|Zeno Clash|4 937858 771119|
 ||ZPG-0117|Trine|4 937858 771133|
 |*|ZPG-0118|カンパニー オブ ヒーローズ アンソロジー<br>Company of Heroes Anthology|4 937858 771140|2009-12-25|
-||ZPG-0120|エンパイア：トータルウォー<br>Empire: Total War|4937858771164|2009-12-25|[Web](http://totalwar.zoo.co.jp/etw/)|
+||ZPG-0120|エンパイア:トータルウォー<br>Empire: Total War|4937858771164|2009-12-25|[Web](http://totalwar.zoo.co.jp/etw/)|
 ||ZPG-0125|トロピコ3<br>Tropico 3|4 937858 771218|2010-06-25|[Web](http://tropico.zoo.co.jp/tropico03/introduction.php)|
 ||ZPG-0131<br>FBG004W111|Wings of Prey|4 937858 771270|
 ||ZPG-0134|キング・アーサー<br>King Arthur|4937858771300 ?|2010-07-02|[Web]([http://kingarthur.zoo.co.jp/](http://kingarthur.zoo.co.jp/introduction.php))|
-|*|ZPG-0138<br>FBG015W111|シティーズ XL 2011<br>Cities XL 2011|4 937858 771348|2010-12-24|
-||ZPG-0139|ナポレオン：トータルウォー<br>Napoleon: Total War|4937858771355|2011-04-28|[Web](http://totalwar.zoo.co.jp/ntw/introduction01.php)|
-||ZPG-0140|ナポレオン：トータルウォー コンプリートパック<br>Napoleon: Total War Complete Pack|4937858771362|2011-04-28|[Web](http://totalwar.zoo.co.jp/ntw/introduction02.php)|
-||ZPG-0141|エンパイア：トータルウォー コンプリートパック<br>Empire: Total War Complete Pack|4937858771379|2011-04-15|[Web](http://totalwar.zoo.co.jp/etw/)|
+|*|ZPG-0138<br>FBG015W111|シティーズ XL 2011<br>Cities XL 2011|4 937858 771348|2010-12-24|[Web](http://citiesxl.zoo.co.jp/2011/introduction.php)|
+||ZPG-0139|ナポレオン:トータルウォー<br>Napoleon: Total War|4937858771355|2011-04-28|[Web](http://totalwar.zoo.co.jp/ntw/introduction01.php)|
+||ZPG-0140|ナポレオン:トータルウォー コンプリートパック<br>Napoleon: Total War Complete Pack|4937858771362|2011-04-28|[Web](http://totalwar.zoo.co.jp/ntw/introduction02.php)|
+||ZPG-0141|エンパイア:トータルウォー コンプリートパック<br>Empire: Total War Complete Pack|4937858771379|2011-04-15|[Web](http://totalwar.zoo.co.jp/etw/)|
 ||ZPG-0142|トロピコ3 アブソルートパワー<br>Tropico 3: Absolute Power|4 937858 771386|2010-12-29|[Web](http://tropico.zoo.co.jp/tropico03/introduction02.php)|
 ||ZPG-0143|トロピコ3 ゴールドエディション<br>Tropico 3: Gold Edition|4937858771393 ?|2011-01-28|[Web](http://tropico.zoo.co.jp/tropico03/introduction.php)|
-||ZPG-0146<br>FBG017W111|ストロングホールド ゴールドエディション<br>Stronghold: Gold Edition|4 937858 771423|2011-02-25|
+||ZPG-0146<br>FBG017W111|ストロングホールド:ゴールドエディション<br>Stronghold: Gold Edition|4 937858 771423|2011-02-25|[Web](http://stronghold.zoo.co.jp/sh1gold/introduction.php)|
 ||ZPG-0147|Sacred 2: Gold Edition|||
-||ZPG-0148|Stronghold 3|4 937858 771447|2011-12-16|
-||ZPG-0150|Emergency 2012|||
+||ZPG-0148|ストロングホールド3<br>Stronghold 3|4 937858 771447|2011-12-16|[Web](http://stronghold.zoo.co.jp/sh3/introduction.php)|
+||ZPG-0149|レッドオーケストラ2:ヒーローズ オブ スターリングラード<br>Red Orchestra 2: Heroes of Stalingrad|4937858771454|2011-09-22|[Web](http://redorchestra.zoo.co.jp/)<br>英語版|
+||ZPG-0150|エマージェンシー 2012 緊急出動!災害救助レスキュー隊<br>Emergency 2012|||
 ||ZPG-0154|トロピコ4<br>Tropico 4|4937858771508 ?|2012-02-24|[Web](http://tropico.zoo.co.jp/tropico04/introduction.php)|
-||ZPG-0158|トータルウォー：ショーグン2<br>Total War: Shogun 2|4937858771546|2011-09-30|[Web](http://totalwar.zoo.co.jp/tws2/introduction.php)|
+||ZPG-0158|トータルウォー:ショーグン2<br>Total War: Shogun 2|4937858771546|2011-09-30|[Web](http://totalwar.zoo.co.jp/tws2/introduction.php)|
+||ZPG-0159|ザ ファースト テンプラー<br>The First Templar|4937858771553|2011-08-12|[Web](http://tft.zoo.co.jp/)|
 ||ZPG-0160|トレインズ シミュレーター 12<br>Trainz Simulator 12|4937858771560|2012-04-27|[Web](http://trains.zoo.co.jp/)|
-|*|ZPG-0161|デッドアイランド<br>Dead Island|4 937858 771577|2011-10-20|
-||ZPG-0163<br>FBG036W111|シティーズ XL 2012<br>Cities XL 2012|4 937858 771591|
-||ZPG-0164<br>FBG037W111|キング・アーサー コレクション<br>King Arthur Collection|4 937858 771607|2011-11-25|
+|*|ZPG-0161|デッドアイランド<br>Dead Island|4 937858 771577|2011-10-20|[Web](http://deadisland.zoo.co.jp/)|
+||ZPG-0162|フィアー3<br>F.E.A.R. 3|4937858771584|2011-08-26|[Web](http://fear.zoo.co.jp/)|
+||ZPG-0163<br>FBG036W111|シティーズ XL 2012<br>Cities XL 2012|4 937858 771591|2011-11-25|[Web](http://citiesxl.zoo.co.jp/2012/introduction.php)|
+||ZPG-0164<br>FBG037W111|キング・アーサー コレクション<br>King Arthur Collection|4 937858 771607|2011-11-25|[Web](http://kingarthur.zoo.co.jp/kac/introduction.php)|
+||ZPG-0165|ハードリセット<br>Hard Reset|4937858771614|2011-12-22|[Web](http://hardreset.zoo.co.jp/)|
+||ZPG-0166|Anno 2070|4937858771621|2012-01-27|[Web](http://anno2070.zoo.co.jp/2070/introduction.php)<br>英語版|
 ||ZPG-0167<br>FBG047W111|テイク オン ヘリコプターズTake on Helicopters|4 937858 771638|2012-03-30|[Web](http://takeonhelicopters.zoo.co.jp/)|
 ||ZPG-0168|エアラインタイクーン2<br>Airline Tycoon 2|4937858771645|2012-02-24|[Web](http://airlinetycoon.zoo.co.jp/)|
 ||ZPG-0169|ゲーム・オブ・スローンズ ジェネシス<br>A Game of Thrones: Genesis|4937858771652|2012-02-24|[Web](http://agotg.zoo.co.jp/)|
@@ -59,9 +66,10 @@
 ||FZ212W111|トロピコ<br>Tropico|4528992056943 ?|2009-06-26|Best Selection of Games|
 ||FZ213W111|トロピコ2 海賊の島<br>Tropico 2: Pirate Cove|4528992056950 ?|2009-06-26|Best Selection of Games|
 ||FBG038W111|キング・アーサー<br>King Arthur|4528992074732|2011-11-25|[Web](http://kingarthur.zoo.co.jp/introduction.php)<br>Best Selection of Games|
-||FBG016W181|エンパイア：トータルウォー コンプリートパック<br>Empire: Total War Complete Pack|4528992076521|2012-03-16|[Web](http://totalwar.zoo.co.jp/etw/introduction02.php)<br>価格改定版|
-||FBG025W181|ナポレオン：トータルウォー コンプリートパック<br>Napoleon: Total War Complete Pack|4528992076538|2012-03-16|[Web](http://totalwar.zoo.co.jp/etw/introduction02.php)<br>価格改定版|
-||FBG055W111|トータルウォー：ショーグン2<br>Total War: Shogun 2|4528992078594|2012-09-28|[Web](http://totalwar.zoo.co.jp/tws2/introduction.php)<br>価格改定版|
+||FBG016W181|エンパイア:トータルウォー コンプリートパック<br>Empire: Total War Complete Pack|4528992076521|2012-03-16|[Web](http://totalwar.zoo.co.jp/etw/introduction02.php)<br>価格改定版|
+||FBG025W181|ナポレオン:トータルウォー コンプリートパック<br>Napoleon: Total War Complete Pack|4528992076538|2012-03-16|[Web](http://totalwar.zoo.co.jp/etw/introduction02.php)<br>価格改定版|
+||ZPG-0162 ?|フィアー3<br>F.E.A.R. 3|4528992078396|2012-07-27|[Web](http://fear.zoo.co.jp/)<br>Best Selection of Games|
+||FBG055W111|トータルウォー:ショーグン2<br>Total War: Shogun 2|4528992078594|2012-09-28|[Web](http://totalwar.zoo.co.jp/tws2/introduction.php)<br>価格改定版|
 
 
 <!--
@@ -100,5 +108,6 @@
                ZOOC-W0004E1  Cossacks: European Wars                                 2001-09-14  http://cossacks.zoo.co.jp/
                              Sudden Strike Forever                                   2001-10-05  http://suddenstrike.zoo.co.jp/forever.html
                              TechnoMage                                              2001-12-14  http://technomage.zoo.co.jp/
+                             Anno 1503: The New World                                2003-06-13  http://anno1503.zoo.co.jp/
                              No Man's Land                                           2004-07-30  http://nml.zoo.co.jp/
 -->
