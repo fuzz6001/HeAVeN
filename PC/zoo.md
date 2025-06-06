@@ -4,25 +4,39 @@
 |||Singles||2004-12-03|[Web](http://singles.zoo.co.jp/)|
 ||ZPG-0026|Singles 2: Tripple Trouble|4560100331214 ?|2005-12-16|[Web](http://singles2.zoo.co.jp/)|
 ||ZPG-0027|Singles Deluxe|4560100331221 ?|2005-12-16|[Web](http://singles2.zoo.co.jp/)|
+||ZPG-0047|GTR2: FIA GT Racing Game|4937858770433|2007-02-02|[Web](http://gtr2.zoo.co.jp/introduction.php)|
+||ZPG-0054|ストーカー シャドーオブチェルノブイリ<br>S.T.A.L.K.E.R.: Shadow of Chernobyl|4937858770501|2007-06-01|[Web](http://stalker.zoo.co.jp/introduction.php)<br>英語版|
 ||ZPG-0056|プレイ<br>Prey|4 937858 770525|||
 ||ZPG-0057|バトルステーションズ:ミッドウェイ<br>Battlestations: Midway|4 937858 770532|2008-05-23|[Web](http://battlestations.zoo.co.jp/)|
 ||ZPG-0058|ヒットマン ブラッドマネー<br>Hitman: Blood Money|4 937858 770549|||
 |*|ZPG-0059|パシフィック ストーム アライズ<br>Pacific Storm: Allies|4 937858 770556|2007-07-27||
+||ZPG-0068|Race 07: Official WTCC Game|4937858770648|2007-11-30|[Web](http://race07.zoo.co.jp/introduction.php)<br>英語版|
 |*|ZPG-0072<br>FZ194W111|エンパイアアースIII<br>Empire Earth III|4 937858 770686|2008-08-08|[Web](http://empireearth.zoo.co.jp/)|
-|*|ZPG-0073<br>FZ197W111|バイオショック<br>BioShock|4 937858 770693|2008-06-27||
+|*|ZPG-0073<br>FZ197W111|バイオショック<br>BioShock|4 937858 770693|2008-06-27|[Web](http://bioshock.zoo.co.jp/)|
+||ZPG-0074|インペリアム ローマ ローマ都市建国<br>Imperivm Romanvm|4937858770709|2008-04-25|[Web](https://web.archive.org/web/20080413231107/http://imperiumromanum.zoo.co.jp/introduction.php)|
 ||ZPG-0075|ウォーリーダーズ クラッシュオブネイションズ<br>War Leaders: Clash of Nations|4937858770716|2008-10-31|[Web]( http://warleaders.zoo.co.jp/)|
 ||ZPG-0078|Lara Croft Tomb Raider: Anniversary|4 937858 770747|||
-||ZPG-0079|Anno 1503: Gold Pack|||
+||ZPG-0079 ?|創世紀1503 ゴールドパック<br>Anno 1503: Gold Pack|4937858770754|2008-07-18|[Web](http://anno1503.zoo.co.jp/introduction.php)|
+||ZPG-0082|GTR Evolution|4937858770785|2008-09-26|[Web](http://gtr-evolution.zoo.co.jp/introduction.php)<br>英語版|
+||ZPG-0083|ストーカー クリアスカイ<br>S.T.A.L.K.E.R.: Clear Sky|4937858770792|2008-09-26|[Web](http://stalker.zoo.co.jp/cs/introduction.php)<br>英語版|
+||ZPG-0084|インペリアム ローマ エンペラー エクスパンション<br>Imperivm Romanvm: Emperor Expansion|4937858770808|2008-10-24|[Web](http://imperiumromanum.zoo.co.jp/iree/introduction.php)|
+||ZPG-0085|インペリアム ローマ:ゴールドエディション<br>Imperivm Romanvm: Gold Edition|4937858770815|2008-10-24|[Web](http://imperiumromanum.zoo.co.jp/iree/introduction.php)|
+||ZPG-0086|ギャラクティック シビライゼイションII アルティメット エディション<br>Galactic Civilizations II: Ultimate Edition|4937858770822|2008-10-17|[Web](http://galciv2.zoo.co.jp/)<br>英語版|
 ||ZPG-0090|Sins of a Solar Empire|4 937858 770860|
 ||ZPG-0092<br>FZ206W111|Double Clutch|4 937858 770884|
+||ZPG-0096|ストーカー クリアスカイ<br>S.T.A.L.K.E.R.: Clear Sky|4937858770921|2009-02-27|[Web](http://stalker.zoo.co.jp/cs/introduction.php)|
 ||ZPG-0106|Lara Croft Tomb Raider: Legend|4 937858 771027||Best Price!|
 ||ZPG-0108|Tomb Raider: Underworld|4 937858 771041|||
 ||ZPG-0113|Anno 1404|4937858771096|2009-08-28|[Web](http://anno1404.zoo.co.jp/1404/introduction.php)|
+||ZPG-0114|Race On: WTCC '08 & US Muscle|4937858771102|2009-11-27|[Web](http://race-on.zoo.co.jp/introduction.php)<br>英語版|
 ||ZPG-0115|Zeno Clash|4 937858 771119|
+||ZPG-0116|バトルステーションズ:ミッドウェイ<br>Battlestations: Midway|4937858771126|2009-09-18|[Web](http://battlestations.zoo.co.jp/)<br>Best Price|
 ||ZPG-0117|Trine|4 937858 771133|
 |*|ZPG-0118|カンパニー オブ ヒーローズ アンソロジー<br>Company of Heroes Anthology|4 937858 771140|2009-12-25|
 ||ZPG-0120|エンパイア:トータルウォー<br>Empire: Total War|4937858771164|2009-12-25|[Web](http://totalwar.zoo.co.jp/etw/)|
+||ZPG-0124|ストーカー コール オブ プリピャチ<br>S.T.A.L.K.E.R. Call of Pripyat|4937858771201|2010-02-19|[Web](http://stalker.zoo.co.jp/cop/introduction.php)<br>英語版|
 ||ZPG-0125|トロピコ3<br>Tropico 3|4 937858 771218|2010-06-25|[Web](http://tropico.zoo.co.jp/tropico03/introduction.php)|
+||ZPG-0129|ストーカー コール オブ プリピャチ<br>S.T.A.L.K.E.R. Call of Pripyat|4937858771256|2010-04-02|[Web](http://stalker.zoo.co.jp/cop/introduction.php)|
 ||ZPG-0131<br>FBG004W111|Wings of Prey|4 937858 771270|
 ||ZPG-0134|キング・アーサー<br>King Arthur|4937858771300 ?|2010-07-02|[Web]([http://kingarthur.zoo.co.jp/](http://kingarthur.zoo.co.jp/introduction.php))|
 |*|ZPG-0138<br>FBG015W111|シティーズ XL 2011<br>Cities XL 2011|4 937858 771348|2010-12-24|[Web](http://citiesxl.zoo.co.jp/2011/introduction.php)|
@@ -46,7 +60,7 @@
 ||ZPG-0164<br>FBG037W111|キング・アーサー コレクション<br>King Arthur Collection|4 937858 771607|2011-11-25|[Web](http://kingarthur.zoo.co.jp/kac/introduction.php)|
 ||ZPG-0165|ハードリセット<br>Hard Reset|4937858771614|2011-12-22|[Web](http://hardreset.zoo.co.jp/)|
 ||ZPG-0166|Anno 2070|4937858771621|2012-01-27|[Web](http://anno2070.zoo.co.jp/2070/introduction.php)<br>英語版|
-||ZPG-0167<br>FBG047W111|テイク オン ヘリコプターズTake on Helicopters|4 937858 771638|2012-03-30|[Web](http://takeonhelicopters.zoo.co.jp/)|
+||ZPG-0167<br>FBG047W111|テイク オン ヘリコプターズ<br>Take on Helicopters|4 937858 771638|2012-03-30|[Web](http://takeonhelicopters.zoo.co.jp/)|
 ||ZPG-0168|エアラインタイクーン2<br>Airline Tycoon 2|4937858771645|2012-02-24|[Web](http://airlinetycoon.zoo.co.jp/)|
 ||ZPG-0169|ゲーム・オブ・スローンズ ジェネシス<br>A Game of Thrones: Genesis|4937858771652|2012-02-24|[Web](http://agotg.zoo.co.jp/)|
 ||ZPG-0170|アラン ウェイク<br>Alan Wake|4937858771669|2012-03-30|[Web](http://alanwake.zoo.co.jp/)|
@@ -63,8 +77,9 @@
 # 
 ||Serial|Title|Barcode|Release|Notes|
 |:-:|:-|:-|:-|:-|:-|
-||FZ212W111|トロピコ<br>Tropico|4528992056943 ?|2009-06-26|Best Selection of Games|
-||FZ213W111|トロピコ2 海賊の島<br>Tropico 2: Pirate Cove|4528992056950 ?|2009-06-26|Best Selection of Games|
+|||創世紀1503 ゴールドパック<br>Anno 1503: Gold Pack|4528992049372|2008-07-18|[Web](http://anno1503.zoo.co.jp/introduction.php)|
+||FZ212W111|トロピコ<br>Tropico|4528992056943|2009-06-26|Best Selection of Games|
+||FZ213W111|トロピコ2 海賊の島<br>Tropico 2: Pirate Cove|4528992056950|2009-06-26|Best Selection of Games|
 ||FBG038W111|キング・アーサー<br>King Arthur|4528992074732|2011-11-25|[Web](http://kingarthur.zoo.co.jp/introduction.php)<br>Best Selection of Games|
 ||FBG016W181|エンパイア:トータルウォー コンプリートパック<br>Empire: Total War Complete Pack|4528992076521|2012-03-16|[Web](http://totalwar.zoo.co.jp/etw/introduction02.php)<br>価格改定版|
 ||FBG025W181|ナポレオン:トータルウォー コンプリートパック<br>Napoleon: Total War Complete Pack|4528992076538|2012-03-16|[Web](http://totalwar.zoo.co.jp/etw/introduction02.php)<br>価格改定版|
