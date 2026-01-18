@@ -22,21 +22,20 @@
 ||ZPG-0125||トロピコ3<br>Tropico 3|4 937858 771218|
 ||ZPG-0131|FBG004W111|Wings of Prey|4 937858 771270|
 ||ZPG-0134||King Arthur|4937858771300 ?|2010-0702|[Web](http://kingarthur.zoo.co.jp/)|
-|*|ZPG-0138|FBG015W111|シティーズ XL 2011<br>Cities XL 2011|4 937858 771348|2010-12-24|
+|*|ZPG-0138|FBG015W111|シティーズ XL 2011<br>Cities XL 2011|4 937858 771348|2010-12-24|[Web](http://citiesxl.zoo.co.jp/)|
 ||ZPG-0142||Tropico 3: Absolute Power|4 937858 771386|
 ||ZPG-0146|FBG017W111|ストロングホールド:ゴールドエディション<br>Stronghold: Gold Edition|4 937858 771423|2011-02-25|
 ||ZPG-0147||Sacred 2: Gold Edition|||
 ||ZPG-0148||Stronghold 3|4 937858 771447|2011-12-16|
 ||ZPG-0150||Emergency 2012|||
-||ZPG-0150||Emergency 2012|||
 |*|ZPG-0161||デッドアイランド<br>Dead Island|4 937858 771577|2011-10-20|
-||ZPG-0163|FBG036W111|シティーズ XL 2012<br>Cities XL 2012|4 937858 771591|
+|*|ZPG-0163|FBG036W111|シティーズ XL 2012<br>Cities XL 2012|4 937858 771591|2011-11-25|[Web](http://citiesxl.zoo.co.jp/)|
 ||ZPG-0164|FBG037W111|King Arthur Collection|4 937858 771607||
 |||FBG038W111|King Arthur|4528992074732 ?|2011-11-25|[Web](http://kingarthur.zoo.co.jp/)|
 ||ZPG-0167|FBG047W111|Take on Helicopters|4 937858 771638|2012-03-30|
 ||ZPG-0179||Tropico 4: Gold Edition|4 937858 771751|
 ||ZPG-0189||Stronghold HD: Gold Edition|4 937858 771850|2013-03-08|
-|*|ZPG-0191|FBG067W111|シティーズ XL プラチナ<br>Cities XL Platinum|4 937858 771874|2013-03-29|
+|*|ZPG-0191|FBG067W111|シティーズ XL プラチナ<br>Cities XL Platinum|4 937858 771874|2013-03-29|[Web](http://citiesxl.zoo.co.jp/)|
 ||ZPG-0192||ArmA II: Combined Operations|||
 
 
