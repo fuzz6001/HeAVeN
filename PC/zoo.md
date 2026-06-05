@@ -17,9 +17,10 @@
 ||ZPG-0106||Lara Croft Tomb Raider: Legend|4 937858 771027||Best Price!|
 ||ZPG-0108||Tomb Raider: Underworld|4 937858 771041|||
 ||ZPG-0115||Zeno Clash|4 937858 771119|
+|*|ZPG-0116||バトルステーションズ:ミッドウェイ<br>Battlestations: Midway|4 937858 771126|2009-09-18|Best Price!<br>[Web](http://battlestations.zoo.co.jp/)|
 ||ZPG-0117||Trine|4 937858 771133|
 |*|ZPG-0118||カンパニー オブ ヒーローズ アンソロジー<br>Company of Heroes Anthology|4 937858 771140|2009-12-25|
-||ZPG-0125||トロピコ3<br>Tropico 3|4 937858 771218|
+|*|ZPG-0125||トロピコ3<br>Tropico 3|4 937858 771218|2010-06-25|[Web](http://tropico.zoo.co.jp/)|
 ||ZPG-0131|FBG004W111|Wings of Prey|4 937858 771270|
 ||ZPG-0134||King Arthur|4937858771300 ?|2010-0702|[Web](http://kingarthur.zoo.co.jp/)|
 |*|ZPG-0138|FBG015W111|シティーズ XL 2011<br>Cities XL 2011|4 937858 771348|2010-12-24|[Web](http://citiesxl.zoo.co.jp/)|
