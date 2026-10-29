@@ -3,7 +3,7 @@
 
 ||Title|Serial|Release|Price|Barcode|Note|
 |:-:|:-|:-|:-|-:|:-|:-|
-||〇星占術大令言<br>Zero Star Senjutsu Daireigen|HMA-268|1990/02|||CROSS MEDia SOFT|
+||〇星占術大令言<br>Zero Star Senjutsu Daireigen|HMA-268|1990/02|14,800|4988002199228|CROSS MEDia SOFT|
 |*|続・ダンジョン・マスター カオスの逆襲<br>Dungeon Master: Chaos Strikes Back|F-5502<br>HMB-216|1990/12|9,800|4988002222452||
 |*|シャドー・オブ・ザ・ビースト 魔性の掟<br>Shadow of the Beast: Mashou no Okite|F-5503<br>HMC-157|1991/09|9,800|4988002234066|修正版あり|
 ||インフェステーション 沈黙の惑星<br>Infestation: Chinmoku no Wakusei|F-5504<br>HMC-199|1992/03||||
